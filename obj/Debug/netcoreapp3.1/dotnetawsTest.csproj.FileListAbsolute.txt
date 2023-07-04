@@ -1,0 +1,17 @@
+D:\GCP\dotnetawsTest\bin\Debug\netcoreapp3.1\dotnetawsTest.deps.json
+D:\GCP\dotnetawsTest\bin\Debug\netcoreapp3.1\dotnetawsTest.runtimeconfig.json
+D:\GCP\dotnetawsTest\bin\Debug\netcoreapp3.1\dotnetawsTest.runtimeconfig.dev.json
+D:\GCP\dotnetawsTest\bin\Debug\netcoreapp3.1\dotnetawsTest.dll
+D:\GCP\dotnetawsTest\bin\Debug\netcoreapp3.1\dotnetawsTest.pdb
+D:\GCP\dotnetawsTest\bin\Debug\netcoreapp3.1\Amazon.Lambda.APIGatewayEvents.dll
+D:\GCP\dotnetawsTest\bin\Debug\netcoreapp3.1\Amazon.Lambda.Core.dll
+D:\GCP\dotnetawsTest\bin\Debug\netcoreapp3.1\Amazon.Lambda.Serialization.SystemTextJson.dll
+D:\GCP\dotnetawsTest\obj\Debug\netcoreapp3.1\dotnetawsTest.csproj.AssemblyReference.cache
+D:\GCP\dotnetawsTest\obj\Debug\netcoreapp3.1\dotnetawsTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\GCP\dotnetawsTest\obj\Debug\netcoreapp3.1\dotnetawsTest.AssemblyInfoInputs.cache
+D:\GCP\dotnetawsTest\obj\Debug\netcoreapp3.1\dotnetawsTest.AssemblyInfo.cs
+D:\GCP\dotnetawsTest\obj\Debug\netcoreapp3.1\dotnetawsTest.csproj.CoreCompileInputs.cache
+D:\GCP\dotnetawsTest\obj\Debug\netcoreapp3.1\dotnetawsTest.csproj.CopyComplete
+D:\GCP\dotnetawsTest\obj\Debug\netcoreapp3.1\dotnetawsTest.dll
+D:\GCP\dotnetawsTest\obj\Debug\netcoreapp3.1\dotnetawsTest.pdb
+D:\GCP\dotnetawsTest\obj\Debug\netcoreapp3.1\dotnetawsTest.genruntimeconfig.cache
