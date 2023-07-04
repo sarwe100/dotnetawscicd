@@ -28,4 +28,4 @@ phases:
       - dotnet new -i Amazon.Lambda.Templates::*
       - dotnet tool install -g Amazon.Lambda.Tools
       - dotnet tool update -g Amazon.Lambda.Tools
-      - dotnet lambda deploy-function "dotnetawsTest" --function-role "arn:aws:iam::117951442434:role/Homi100" --region "ap-south-1"
+      - dotnet lambda deploy-function "dotnetawsTest" --function-role "arn:aws:iam::117951442434:role/swatisarwe100@gmail.com" --region "ap-south-1"
