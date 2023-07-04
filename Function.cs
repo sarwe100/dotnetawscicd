@@ -37,7 +37,7 @@ namespace dotnetawsTest
             var response = new APIGatewayProxyResponse
             {
                 StatusCode = (int)HttpStatusCode.OK,
-                Body = "Hello AWS Serverless",
+                Body = "Hello AWS Serverless Homi user",
                 Headers = new Dictionary<string, string> { { "Content-Type", "text/plain" } }
             };
 
