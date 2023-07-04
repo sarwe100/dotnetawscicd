@@ -16,7 +16,7 @@
   "function-memory-size": 256,
   "function-timeout": 50,
   "function-handler": "dotnetawsTest::dotnetawsTest.Function::FunctionHandler",
-  "function-role": "arn:aws:iam::117951442434:role/Homi100"
+  "function-role": "arn:aws:iam::117951442434:role/swatisarwe100@gmail.com"
 }
 
  
